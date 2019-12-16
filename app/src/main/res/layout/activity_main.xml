@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background=""
+        android:gravity="center_horizontal"
+        tools:context=".SkinRoutine">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/routine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="Pancake Durian Asli Medan"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"/>
+
+        <ImageView
+            android:layout_width="320dp"
+            android:layout_height="320dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/duren">
+        </ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:text="Sebelum menggunakan skincare alangkah lebih baik jika kamu kenali dulu tipe kulit kamu. Untuk mengetahui jenis kulit, pertama basahi wajah dan diamkan selama satu setengah jam tanpa mengoleskan produk kecantikan apapun. Jangan berada di ruangan ber-AC atau melakukan kegiatan di bawah sinar matahari. Setelah itu gunakan tisu atau tekan bagian pipi, dagu dan kening.  Kamu ingin tahu kan bagaimana cara untuk mengetahui jenis kulitnya. Yuk lihat jenis kulitmu diatas!"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:text="Step 1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:text="DOUBLE CLEANSING : Double cleansing berarti membersihkan wajah. Cleansing ini bisa dilakukan sekali atau dua kali dalam sehari. Pertama dilakukan pada pagi hari sebelum mandi dengan mengaplikasikan cleansing oil atau cleansing milk. Ini bisa mengangkat sel kulit yang telah mati. Kedua bisa dilakukan ketika selesai mandi, tinggal dibasuh memakai facial wash atau facial foam. Sehingga kulit akan terasa kenyal dan segar."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:text="Step 2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:text="Pancake Durian sekarang ini telah menjadi salah satu jajanan kuliner yang banyak di nanti, dan keberadaannya dapat kita jumpai hampir sebagian besar terdapat di seluruh kota- kota besar di tanah air. Dalam segi  harga memang Pancake Durian ini tergolong mahal, untuk itu kami menyediakan resep Pancake Durian ini agar anda tak perlu merogoh kocek yang terlalu tinggi agar dapat menikmati santapan kuliner Pancake Durian."
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:text="Step 3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:text="SERUM : Langkah berikut ini adalah saatnya kamu menggunakan produk perawatan yang paling sesuai dengan kebutuhan kulitmu. Apakah itu untuk memberikan kelembapan ekstra, atau melawan kerut, serta noda hitam hingga mengecilkan pori-pori. Serum sangat padat akan bahan aktif serta memiliki butiran molekul yang kecil sehingga bisa terserap hingga ke lapisan terdalam kulit. Coba Innisfree Green Tea Seed Serum yang sangat cocok untuk kulit kering serta kusam karena mampu memberikan kelembapan yang ekstra untuk kulitmu."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:text="Step 4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:text="MOISTURIZER : Moisturizer atau pelembap ini sudah menjadi kebutuhan untuk kesehatan wajah. Pelembap ini berfungsi untuk mempertahankan kelembapan kulit sepanjang hari. Pelembap ini pun disesuaikan dengan jenis kulit yang kamu miliki ya. Cara penggunaannya cucilah wajah terlebih dahulu dengan facial wash. Kemudian aplikasikan pelembap di bagian wajah, dan lakukan gerakan memutar ke arah atas menuju tulang pipi, bagian mata dan kening."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:text="Step 5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:text="SUNSCREEN : Untuk kamu yang sering beraktivitas diluar ruangan dan terpapar sinar matahari, lebih baik menggunakan sunscreen setiap hari. Cara menggunakan sunscreen diratakan ke wajah setelah menggunakan pelembap. Sunscreen ini mengandung spf yang dapat melindungi wajah yang bisa bertahan sampai 8 jam."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:text="Step 6"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:textSize="15sp"
+            android:text="MASKER : Saat ini banyak masker-masker yang dijual dipasar lokal maupun internasional. Dengan berbagai macam varian menyesuaikan jenis jenis kulit dan kebutuhan kulit. Mulai dari masker timun, bengkuang, kopi, alpukat, lemon dan sebagainya. Masker bisa digunakan satu minggu sekali atau dua minggu sekali. Sebelum menggunakan masker, lebih baik bersihkan wajah terlebih dahulu menggunakan facial wash setelah itu oleskan masker secara merata."/>
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"/>
+    </LinearLayout>
+
+</ScrollView>
